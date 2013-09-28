@@ -8,6 +8,11 @@
 # NOTE: syntax was changed to allow hyphenation of ranknames, since spaces are stripped.      #
 ###############################################################################################
 
+mataytay = Game Master
+matayu = Game Master
+mentaljen = Game Master
+Haroldthehouse = Game Master
+
 rolan7 = Game Master
 quarxink = Game Master
 tle = Game Master
